@@ -1,1 +1,1 @@
-Explain what a branch is
+A git branch allows you to create a different pointer or reference point at the same commit point in your project. This allows you to make changes separate to your main branch and then merge them later on if needed.

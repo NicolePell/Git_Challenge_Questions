@@ -1,1 +1,1 @@
-Explain what the 'upstream' is usually used for
+The upstream remote is usually used to push changes to a repository to a remote github repo to allow multiple users to work with the same changes

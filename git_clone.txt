@@ -1,1 +1,1 @@
-Explain what git clone does
+Git clone allows you to copy a repository and make changes to it
